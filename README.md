@@ -2,11 +2,6 @@
 
 I'm focused on **game development**, primarily working with **Unity** and occasionally exploring **Unreal Engine 5**. 
 
-## 🔧 Technologies
-
-- Unity (C#)
-- Unreal Engine 5 (Blueprints, C++)
-
 ## 🚧 Ongoing Projects
 
 - 🚀 Stellar Sweepers – description yet to come...
