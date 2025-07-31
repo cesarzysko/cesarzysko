@@ -1,16 +1,24 @@
-### Hi there 👋
+# 👋 Welcome
 
-<!--
-**cesarzysko/cesarzysko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm focused on **game development**, primarily working with **Unity** and occasionally exploring **Unreal Engine 5**. 
 
-Here are some ideas to get you started:
+## 🔧 Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Unity (C#)
+- Unreal Engine 5 (Blueprints, C++)
+
+## 🚧 Ongoing Projects
+
+- 🚀 Stellar Sweepers – description yet to come...
+
+## ✅ Finished Projects
+
+- 🚀 Stellar Sweepers (the older one) – description yet to come...
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarzysko&hide_title=true&theme=default)
+
+## 📫 Contact
+
+Discord: @cesarz
