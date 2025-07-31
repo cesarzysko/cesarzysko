@@ -12,7 +12,7 @@ I'm focused on **game development**, primarily working with **Unity** and occasi
 
 ## 📊 GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=cesarzysko&hide_title=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=cesarzysko&hide_title=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contact
 
