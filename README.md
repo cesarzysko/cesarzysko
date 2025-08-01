@@ -8,7 +8,7 @@ I'm focused on **game development**, primarily working with **Unity** and occasi
 
 ## ✅ Finished Projects
 
-- 🚀 Stellar Sweepers (the older one) – description yet to come...
+- 🚀 Cosmic Cleaners – description yet to come...
 
 ## 📊 GitHub Stats
 
