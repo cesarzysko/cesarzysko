@@ -8,7 +8,7 @@ I'm focused on **game development**, primarily working with **Unity** and occasi
 
 ## ✅ Finished Projects
 
-- 🚀 Cosmic Cleaners – description yet to come...
+- 🚀 Cosmic Cleaners – available at [itch.io](https://cesarzysko.itch.io/cosmic-cleaners)
 
 ## 📊 GitHub Stats
 
