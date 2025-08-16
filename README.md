@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-I'm focused on **game development**, primarily working with **Unity** and occasionally exploring **Unreal Engine 5**. 
+I'm focused on **game development**, primarily working with **Unity**. 
 
 ## 🚧 Ongoing Projects
 
