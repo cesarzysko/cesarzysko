@@ -4,7 +4,7 @@ I'm focused on **game development**, primarily working with **Unity**.
 
 ## 🚧 Ongoing Projects
 
-- ⛓ Dungeon Crawler JRPG – a game jam project, description yet to come...
+- ⛓ Dungeon Crawler JRPG – description yet to come...
 
 ## ✅ Finished Projects
 
