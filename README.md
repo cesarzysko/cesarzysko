@@ -4,7 +4,7 @@ I'm focused on **game development**, primarily working with **Unity**.
 
 ## 🧠 Ongoing Projects
 
-- Dialogue Framework (C#) - description yet to come...
+- C# Dialogue Framework - description yet to come...
 
 ## 🚧 Suspended Projects
 
