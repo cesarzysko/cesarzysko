@@ -15,10 +15,10 @@ I'm focused on **game development**, primarily working with **Unity**.
 - 🚀 **Stellar Sweepers** – A shmup prototype built with Unity, available at [itch.io](https://cesarzysko.itch.io/stellar-sweepers).
 - 🥀 **Bloom or Doom** – A game created for *B1T Jam 2* using Unity, available at [itch.io](https://cesarzysko.itch.io/bloom-or-doom).
 - 🛸 **Cosmic Cleaners** – A simple shmup prototype built with Unity, available at [itch.io](https://cesarzysko.itch.io/cosmic-cleaners).
- 
-## 📊 GitHub Stats
 
 <!--
+## 📊 GitHub Stats
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=cesarzysko&hide_title=true&theme=nord)](https://github.com/cesarzysko#-github-stats)
 -->
 
