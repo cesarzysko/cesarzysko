@@ -2,7 +2,7 @@
 
 I'm focused on **game development**, primarily working with **Unity**. 
 
-## 🧠 (Slowly) Ongoing Projects
+## 🧠 Ongoing Projects
 
 - ⛓ **Dungeon Crawler JRPG** – Description coming soon.
 
